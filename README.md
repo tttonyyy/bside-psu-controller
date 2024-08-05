@@ -19,7 +19,7 @@ The software that came with my PSU was on a CD/DVD that I could not read, so thi
 
 Note that changes made using modbus are sometimes not reflected on the PSU's LCD display, even though the values have been set. Entering and exiting the menu or editting the values via the PSU navigation will typically update the LCD's view of the settings.
 
-I have not found a way to correct the spelling of "Programmalbe DC Power Supply".
+I have not found a way to correct the spelling of "Programmalbe DC Power Supply".  (If you're wondering why all the AliExpress listings have a "shopped" GUI - it appears to be to hide this typo!)
 
 # Dependencies
 
